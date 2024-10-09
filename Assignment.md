@@ -1,7 +1,6 @@
 # Assignment
 
-> Perform steps 1-4 being located in your home directory. At step 6 you will be asked to change the directory. All further actions should be executed from that location. 
-  
+> Perform steps 1-4 being located in your home directory. At step 6 you will be asked to change the directory. All further actions should be executed from that location. <br/> 
 > Use paths relative to the locations you are in. Do not use absolute paths. For example, if you are asked "Being located in the directory `/home/user/dir/subdir` change to directory `/home/user/dir/`", the correct answer would be `cd ../` or `cd ..`, while `cd /home/user/dir/` won't count.
 
 1. Download the archive by the link [https://zenodo.org/records/13858866/files/astex_diverse_set.tar.gz](https://zenodo.org/records/13858866/files/astex_diverse_set.tar.gz).
