@@ -7,7 +7,7 @@
 
 2. Decompress the archive. 
 
-Check the list of files in your current directory. See, that the folder `data/` appeared - it was extracted from the archive. The archive file is still there but it is not needed anymore. It is a good practice to mind order in your files, especially on the server with other users. So, [see step 3].
+Check the list of files in your current directory. See, that the folder `data/` appeared - it was extracted from the archive. The archive file is still there but it is not needed anymore. It is a good practice to mind order in your files, especially on the server with other users. So, see step 3.
 
 3. Remove the archive file.
 
