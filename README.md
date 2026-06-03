@@ -2,7 +2,7 @@
 
 <img src='https://github.com/kluwik/command_line/blob/main/img/header.jpg?' width=300>
 
-__Methodology__
+## Methodology
 
 This repository provides a methodology and teaching materials for introducing the command line to first-year master's students in bioinformatics who have little or no programming experience. The methodology was implemented in a 6-credit Bioinformatics course at Skoltech, which included two three-hour practical seminars, and received positive feedback from students.
 
