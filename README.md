@@ -1,12 +1,18 @@
 # Awesome command line for master bioinformatics students
 
-<img src='https://github.com/kluwik/command_line/blob/main/img/header.jpg?' width=500>
+<img src='https://github.com/kluwik/command_line/blob/main/img/header.jpg?' width=300>
 
 __Methodology__
 
-This repo provides methodology and materials for teaching command line to first-year master bioinformatics students with little or no programming background. The methodology was implemented at Skoltech 6-credit Bioinformatics course (2 three-hour seminars) and recieved positive students feedback.
+This repository provides a methodology and teaching materials for introducing the command line to first-year master's students in bioinformatics who have little or no programming experience. The methodology was implemented in a 6-credit Bioinformatics course at Skoltech, which included two three-hour practical seminars, and received positive feedback from students.
 
-In the beginning of the course tutorial is shared with students. Students study the tutorial independently at home within two weeks. In parallel with tutorial students complete pass/fail quizzes on each topic of the tutorial in LMS for self-assessment. After completing the first three chapters of the tutorial, the students come to the practice seminar and solve practical exercises and recieve home assignment on completing a task in the command line. Then students complete the rest of the tutorial and come to the second seminar on practicing scripting.
+At the start of the course, students are given a tutorial for independent study over a two-week period. Alongside the tutorial, they complete pass/fail quizzes in the LMS covering each topic, allowing them to assess their understanding as they progress.
+
+After completing the first three chapters of the tutorial, students attend the first practical seminar, where they work on hands-on exercises and receive a take-home assignment that requires solving a bioinformatics task using the command line. They then complete the remaining chapters of the tutorial before attending the second seminar, which focuses on shell scripting and automation.
+
+While the tutorial and quizzes are designed to develop and assess knowledge of command-line concepts and commands, the practical seminars and assignments focus on applying these skills to solve realistic bioinformatics problems.
+
+The key component of this methodology is the self-study tutorial. It eliminates the need for a dedicated introductory seminar, allowing students to learn the fundamentals at their own pace and assess their understanding through quizzes. This approach frees up classroom time for hands-on practice and problem-solving activities. If a traditional lecture format better suits your course, a presentation version of the tutorial is also available [here](https://github.com/kluwik/command_line/blob/main/CLI_seminar_version_of_tutorial.pdf).
 
 <img src='https://github.com/kluwik/command_line/blob/main/img/command_line_schedule.jpg?' width=500>
 
@@ -74,7 +80,8 @@ cd ..
 
 ## Practice seminars
 
-
+[Practice seminar 1](https://github.com/kluwik/command_line/blob/main/CLI_practice_seminar_1.pdf)
+[Practice seminar 2](https://github.com/kluwik/command_line/blob/main/CLI_practice_seminar_2.pdf)
 
 ## Home assignment
 
