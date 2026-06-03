@@ -81,6 +81,7 @@ cd ..
 ## Practice seminars
 
 [Practice seminar 1](https://github.com/kluwik/command_line/blob/main/CLI_practice_seminar_1.pdf)
+
 [Practice seminar 2](https://github.com/kluwik/command_line/blob/main/CLI_practice_seminar_2.pdf)
 
 ## Home assignment
